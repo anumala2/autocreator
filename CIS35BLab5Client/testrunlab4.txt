@@ -1,0 +1,222 @@
+Note: There are bound to be differences due to the nature of multithreading.
+
+Automotive Name: Ford Wagon ZTW
+	OptionSet Name: Color
+		Option Name: Fort Knox Gold Clearcoat Metallic
+		       Price: 0
+		Option Name: Liquid Grey Clearcoat Metallic
+		       Price: 0
+		Option Name: Infra-Red Clearcoat
+		       Price: 0
+		Option Name: Grabber Green Clearcoat Metallic
+		       Price: 0
+		Option Name: Sangria Red Clearcoat Metallic
+		       Price: 0
+		Option Name: French Blue Clearcoat Metallic
+		       Price: 0
+		Option Name: Twilight Blue Clearcoat Metallic
+		       Price: 0
+		Option Name: CD Silver Clearcoat Metallic
+		       Price: 0
+		Option Name: Pitch Black Clearcoat
+		       Price: 0
+		Option Name: Cloud 9 White Clearcoat
+		       Price: 0
+	OptionSet Name: Transmission
+		Option Name: Automatic
+		       Price: 0
+		Option Name: Manual
+		       Price: -815
+	OptionSet Name: Brakes/Traction Control
+		Option Name: Standard
+		       Price: 0
+		Option Name: ABS
+		       Price: 400
+		Option Name: ABS with Advance Trac
+		       Price: 1625
+	OptionSet Name: Side Impact Air Bags
+		Option Name: None
+		       Price: 0
+		Option Name: Present
+		       Price: 350
+	OptionSet Name: Power Moonroof
+		Option Name: None
+		       Price: 0
+		Option Name: Present
+		       Price: 595
+Automotive Name: Ford Wagon ZTW
+	OptionSet Name: Color
+		Option Name: Fort Knox Gold Clearcoat Metallic
+		       Price: 0
+		Option Name: Liquid Grey Clearcoat Metallic
+		       Price: 0
+		Option Name: Infra-Red Clearcoat
+		       Price: 0
+		Option Name: Grabber Green Clearcoat Metallic
+		       Price: 0
+		Option Name: Sangria Red Clearcoat Metallic
+		       Price: 0
+Automotive Name: Ford Wagon ZTW
+	OptionSet Name: Color
+		Option Name: French Blue Clearcoat Metallic
+		       Price: 0
+		Option Name: Twight
+		       Price: 0
+		Option Name: Twight
+		       Price: 0
+		Option Name: Liquid Grey Clearcoat Metallic
+		       Price: 0
+		Option Name: CD Silver Clearcoat Metallic
+		       Price: 0
+		Option Name: Infra-Red Clearcoat
+		       Price: 0
+		Option Name: Pitch Black Clearcoat
+		       Price: 0
+		Option Name: Cloud 9 White Clearcoat
+		       Price: 0
+		Option Name: Grabber Green Clearcoat Metallic
+		       Price: 0
+	OptionSet Name: Transmission
+		Option Name: Sangria Red Clearcoat Metallic
+		       Price: 0
+		Option Name: Automatic
+		       Price: 0
+		Option Name: Manual
+		       Price: -815
+		Option Name: French Blue Clearcoat Metallic
+		       Price: 0
+	OptionSet Name: Brakes/Traction Control
+		Option Name: Twight
+		       Price: 0
+		Option Name: Standard
+		       Price: 0
+		Option Name: CD Silver Clearcoat Metallic
+		       Price: 0
+		Option Name: ABS
+		       Price: 400
+		Option Name: Pitch Black Clearcoat
+		       Price: 0
+		Option Name: Cloud 9 White Clearcoat
+		       Price: 0
+		Option Name: ABS with Advance Trac
+		       Price: 1625
+	OptionSet Name: Transmission
+	OptionSet Name: Side Impact Air Bags
+		Option Name: Automatic
+		       Price: 0
+		Option Name: Manual
+		       Price: -815
+	OptionSet Name: Brakes/Traction Control
+		Option Name: None
+		       Price: 0
+		Option Name: Standard
+		       Price: 0
+		Option Name: Present
+		       Price: 350
+		Option Name: ABS
+		       Price: 400
+	OptionSet Name: Power Moonroof
+		Option Name: ABS with Advance Trac
+		       Price: 1625
+	OptionSet Name: Side Impact Air Bags
+		Option Name: None
+		       Price: 0
+		Option Name: None
+		       Price: 0
+		Option Name: Present
+		       Price: 595
+		Option Name: Present
+		       Price: 350
+	OptionSet Name: Power Moonroof
+		Option Name: None
+		       Price: 0
+		Option Name: Present
+		       Price: 595
+Automotive Name: Ford Wagon ZTW
+Automotive Name: Ford Wagon ZTW
+	OptionSet Name: Color
+		Option Name: Blueboy
+		       Price: 0
+		Option Name: Liquid Grey Clearcoat Metallic
+		       Price: 0
+		Option Name: Infra-Red Clearcoat
+		       Price: 0
+	OptionSet Name: Color
+		Option Name: Grabber Green Clearcoat Metallic
+		       Price: 0
+		Option Name: Blueboy
+		       Price: 0
+		Option Name: Sangria Red Clearcoat Metallic
+		       Price: 0
+		Option Name: Liquid Grey Clearcoat Metallic
+		       Price: 0
+		Option Name: Infra-Red Clearcoat
+		       Price: 0
+		Option Name: French Blue Clearcoat Metallic
+		       Price: 0
+		Option Name: Grabber Green Clearcoat Metallic
+		       Price: 0
+		Option Name: Twight
+		       Price: 0
+		Option Name: Sangria Red Clearcoat Metallic
+		       Price: 0
+		Option Name: CD Silver Clearcoat Metallic
+		       Price: 0
+		Option Name: French Blue Clearcoat Metallic
+		       Price: 0
+		Option Name: Twight
+		       Price: 0
+		Option Name: CD Silver Clearcoat Metallic
+		       Price: 0
+		Option Name: Pitch Black Clearcoat
+		       Price: 0
+		Option Name: Cloud 9 White Clearcoat
+		       Price: 0
+	OptionSet Name: Transmission
+		Option Name: Automatic
+		       Price: 0
+		Option Name: Manual
+		       Price: -815
+	OptionSet Name: Brakes/Traction Control
+		Option Name: Standard
+		       Price: 0
+		Option Name: ABS
+		       Price: 400
+		Option Name: ABS with Advance Trac
+		       Price: 1625
+	OptionSet Name: Side Impact Air Bags
+		Option Name: None
+		       Price: 0
+		Option Name: Present
+		       Price: 350
+	OptionSet Name: Power Moonroof
+		Option Name: None
+		       Price: 0
+		Option Name: Present
+		       Price: 595
+		Option Name: Pitch Black Clearcoat
+		       Price: 0
+		Option Name: Cloud 9 White Clearcoat
+		       Price: 0
+	OptionSet Name: Transmission
+		Option Name: Automatic
+		       Price: 0
+		Option Name: Manual
+		       Price: -815
+	OptionSet Name: Brakes/Traction Control
+		Option Name: Standard
+		       Price: 0
+		Option Name: ABS
+		       Price: 400
+		Option Name: ABS with Advance Trac
+		       Price: 1625
+	OptionSet Name: Side Impact Air Bags
+		Option Name: None
+		       Price: 0
+		Option Name: Present
+		       Price: 350
+	OptionSet Name: Power Moonroof
+		Option Name: None
+		       Price: 0
+		Option Name: Present
+		       Price: 595
